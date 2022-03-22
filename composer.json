@@ -11,7 +11,7 @@
         "php": "^7.2",
         "anlutro/l4-settings": "^0.9",
         "authy/php": "^3.0",
-        "barryvdh/laravel-translation-manager": "^0.5.3",
+        "barryvdh/laravel-translation-manager": "^0.6.2",
         "doctrine/dbal": "^2.9",
         "fideloper/proxy": "^4.0",
         "laravel/framework": "^6.0",
